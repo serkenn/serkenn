@@ -32,8 +32,7 @@
 ## Featured Repositories
 
 - [myhomepage](https://github.com/serkenn/myhomepage) - Portfolio / Profile website
-- [nikkei-scraping](https://github.com/serkenn/nikkei-scraping) - Nikkei-related scraping project
-- [Nikkei-Original-Diary](https://github.com/serkenn/Nikkei-Original-Diary) - Original analysis and journaling project based on Nikkei data
+- Private development projects are omitted from this public profile.
 
 ## GitHub Statistics
 
