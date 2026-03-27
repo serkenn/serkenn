@@ -5,6 +5,7 @@
     <a href="https://komarev.com/ghpvc/?username=serkenn"><img src="https://komarev.com/ghpvc/?username=serkenn&style=flat-square" alt="Profile Views" /></a>
     <a href="https://github.com/serkenn?tab=repositories"><img src="https://img.shields.io/badge/Repositories-serkenn-181717?style=flat-square&logo=github" alt="Repositories" /></a>
     <a href="https://serken.tech/"><img src="https://img.shields.io/badge/Homepage-serken.tech-0A66C2?style=flat-square" alt="Homepage" /></a>
+    <a href="https://justuuid.pages.dev/u/d15cebbe-de27-465f-94aa-a80916b45ec1" target="_blank" rel="noopener noreferrer"><img src="https://justuuid.pages.dev/api/badge/u/d15cebbe-de27-465f-94aa-a80916b45ec1.svg" alt="UUID Badge" /></a>
   </p>
 </div>
 
